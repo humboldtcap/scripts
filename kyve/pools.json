@@ -1,0 +1,56 @@
+[
+  {
+    "name": "avalanche",
+    "runtime": "evm",
+    "pool": "0x464200b29738367366FDb4c45f3b8fb582AE0Bf8",
+    "uploader": "0x3654478597419183e0588e567B57587fD4dbaD40"
+  },
+  {
+    "name": "moonriver",
+    "runtime": "evm",
+    "pool": "0x610D55fA573Bce4D2d36e8ADAAee517B785a69dF",
+    "uploader": "0x794126Af614561aE3C9F236A63a8774b661d66f1"
+  },
+  {
+    "name": "cosmos",
+    "runtime": "cosmos",
+    "pool": "0x7Bb18C81BBA6B8dE8C17B97d78B65327024F681f",
+    "uploader": "0x0fdc526c40059570fcB1b6E5F5c786BDfDc376A9"
+  },
+  {
+    "name": "celo",
+    "runtime": "celo",
+    "pool": "0x1588fd93715Aa08d67c32C6dF96fC730B15E1E1A",
+    "uploader": "0x832b1583086b7D661aE570D773E1f3f3777B01a7"
+  },
+  {
+    "name": "solana-snapshots-beta",
+    "runtime": "solana-snapshots",
+    "pool": "0x3124375cA4de5FE5afD672EF2775c6bdcA1Cfdcc",
+    "uploader": "0x9C073E93ed020A6a8B4aABc1BB04a8f479dC8dbB"
+  },
+  {
+    "name": "evmos",
+    "runtime": "evmos",
+    "pool": "0x24E7b48c3a6E40ea0e50764E617906c9B7cf9F21",
+    "uploader": "0x4Ffe0C5f86562E29458412A29679bf72CF9C2d4c"
+  },
+  {
+    "name": "tendermint",
+    "runtime": "evmos",
+    "pool": "0xAa3337d1f8F72D544f3843B2089d2DA02BBcbD28",
+    "uploader": "0x54CcDFA0Fd34ce21Dc1E73e39305295e69211BF6"
+  },
+  {
+    "name": "near",
+    "runtime": "near",
+    "pool": "0xFAb226300F8B481dF35445c22d73fF5cb9C409eD",
+    "uploader": "0xf6A6CF9A7b36248282561C4724803bb89eC80006"
+  },
+  {
+    "name": "aurora",
+    "runtime": "evm-snapshots",
+    "pool": "0x5C3ea1634E97F44b592524616F4b158D569DF920",
+    "uploader": "0xf86FA4CF3cc7730503b82B16A59567843D055a13"
+  }
+]
