@@ -12,7 +12,7 @@ network of uploaders & validators (see https://www.kyve.network/)
 
 * address is a private-key
 * staking & funding as competition for work  
-* blockchain as prism front-end reflects back-end
+* blockchain prism - front-end is reflection of bash commands
 
 ### scripts provided ###
 
