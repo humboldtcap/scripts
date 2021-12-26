@@ -9,7 +9,7 @@ network of uploaders & validators (see https://www.kyve.network/ & https://docs.
 
 Setup presumes arweave.json and private.key (eth address for $kyve) are available  
 
-### building block for novice crypto users ###
+### building block for crypto developers ###
 
 * no risk in testnet
 * introduces security related themes
