@@ -1,6 +1,13 @@
 ## kyve ##
 
-network of uploaders & validators (see https://www.kyve.network/)
+network of uploaders & validators (see https://www.kyve.network/ & https://docs.kyve.network/node/running)
+
+## scripts ## 
+
+* build.sh - attempts to build all kyve runtimes
+* setup.sh - attempts to build startup scripts for each pool
+
+Setup presumes arweave.json and private.key (eth address for $kyve) are available  
 
 ### building block for novice crypto users ###
 
@@ -13,8 +20,3 @@ network of uploaders & validators (see https://www.kyve.network/)
 * address is a private-key
 * staking & funding as competition for work  
 * blockchain prism - front-end is reflection of bash commands
-
-### scripts provided ###
-
-* build.sh - attempts to build all kyve runtimes
-* setup.sh - given arweave.json and private.key attempts to build startup scripts for each live pool
